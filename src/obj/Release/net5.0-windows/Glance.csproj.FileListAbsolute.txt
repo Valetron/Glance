@@ -1,0 +1,16 @@
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.exe
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.deps.json
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.runtimeconfig.json
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.runtimeconfig.dev.json
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.dll
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\ref\Glance.dll
+D:\Visual_Studio_projects\Glance\bin\Release\net5.0-windows\Glance.pdb
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.csproj.AssemblyReference.cache
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.AssemblyInfoInputs.cache
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.AssemblyInfo.cs
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.dll
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\ref\Glance.dll
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.pdb
+D:\Visual_Studio_projects\Glance\obj\Release\net5.0-windows\Glance.genruntimeconfig.cache
