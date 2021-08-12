@@ -1,5 +1,5 @@
 # Glance
-Simple image viewer
+Simple image viewer for __jpg, jpeg, png, gif, bmp__ files
 ## Start
 1. Clone repo
 2. Start ___compile.bat___
