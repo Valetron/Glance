@@ -2,7 +2,7 @@
 Simple image viewer for __jpg, jpeg, png, gif, bmp__ files
 ## Start
 1. Clone repo
-2. Start ___compile.bat___
+2. Run ___compile.bat___ as __administrator__
 3. Glance at your pictures and photos
 ## How to use
 + _Right mouse click_ to open file dialog
