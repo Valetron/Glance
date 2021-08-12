@@ -47,14 +47,6 @@ namespace Gla
                 pictureBox1.Load(files[curIndexImage]);
                 this.Text = "Glance at " + files[curIndexImage];
             }
-            else if (ModifierKeys == Keys.Alt && e.Delta == 120) // rotate forward
-            {
-
-            }
-            else if (ModifierKeys == Keys.Alt && e.Delta == -120) // rotate backward
-            {
-
-            }
         }
 
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
